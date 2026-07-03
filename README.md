@@ -1,2 +1,3 @@
 # github-demo-
-This is my frist git repository 
+This is my first git repository 
+Author - Abhishe Bhabad
